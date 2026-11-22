@@ -2,7 +2,7 @@
 ### Waste Collection & Official Proof Management System with Raspberry Pi Cloud Storage
 
 ## Overview
-- **Residents Portal**: Submit geo - located waste collection reports with photo evidence, offline-first local storage (`localStorage`), and automatic background retry queue synchronization.
+- **Residents Portal**: Submit geo-located waste collection reports with photo evidence, offline-first local storage (`localStorage`), and automatic background retry queue synchronization.
 - **Barangay Official Portal**: Live operational map, Street View 360, dispatch workflow, mandatory cleanup proof verification, permanent resolution logbooks, Telegram Bot alerts & cloud bubbles, and Raspberry Pi 4B sovereign cloud storage sync.
 
 ## Local Development
